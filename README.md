@@ -7,6 +7,7 @@ Although the idea of collaborating on documents, presentations, and more have be
 
 ## Who is Videosyncracy for?
 Videosyncracy can be used by anyone, particularly YouTubers, video and even movie editors. 
+
 Video-editing is a long and grueling process that may take days or weeks to complete. However, this lengthy labor can easily be reduced if many people were to edit together, similar to Google Docs.
 
 ## How will Videosyncracy work?
